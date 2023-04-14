@@ -2,12 +2,13 @@
 <h3 align="center">react native explorer,ceng student</h3>
 
 - 📫 How to reach me **yakup.ozbaydarft@gmail.com**
-<h3 align="left">Connect with me:</h3>
 <a align="center" href="bento.me/yakupozbaydar" target="blank>
                                          <h1 align="center">
                                          bento
                                          </h1>
                                          </a>
+<h3 align="left">Connect with me:</h3>
+
 
 <p align="left">
 <a href="https://linkedin.com/in/yakupozbaydar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yakupozbaydar" height="30" width="40" /></a>
