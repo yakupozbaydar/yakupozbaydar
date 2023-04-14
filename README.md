@@ -2,11 +2,13 @@
 <h3 align="center">react native explorer,ceng student</h3>
 
 - 📫 How to reach me **yakup.ozbaydarft@gmail.com**
-- <a href="bento.me/yakupozbaydar" target="blank/>
+<h3 align="left">Connect with me:</h3>
+<h3 align="center">
+  bento
+  <a href="bento.me/yakupozbaydar" target="blank/>
   bento
   </a>
-
-<h3 align="left">Connect with me:</h3>
+                                           </h3>                                           
 <p align="left">
 <a href="https://linkedin.com/in/yakupozbaydar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yakupozbaydar" height="30" width="40" /></a>
 <a href="https://instagram.com/yakup.ozbaydar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yakup.ozbaydar" height="30" width="40" /></a>
