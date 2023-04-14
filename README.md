@@ -2,11 +2,6 @@
 <h3 align="center">react native explorer,ceng student</h3>
 
 - 📫 How to reach me **yakup.ozbaydarft@gmail.com**
-<a align="center" href="bento.me/yakupozbaydar" target="blank>
-                                         <h1 align="center">
-                                         bento
-                                         </h1>
-                                         </a>
 <h3 align="left">Connect with me:</h3>
 
 
