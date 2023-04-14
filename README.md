@@ -3,8 +3,8 @@
 
 - 📫 How to reach me **yakup.ozbaydarft@gmail.com**
 <h3 align="left">Connect with me:</h3>
-<a href="bento.me/yakupozbaydar" target="blank>
-                                         <h1>
+<a align="center" href="bento.me/yakupozbaydar" target="blank>
+                                         <h1 align="center">
                                          bento
                                          </h1>
                                          </a>
