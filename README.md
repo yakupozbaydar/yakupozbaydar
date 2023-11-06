@@ -3,7 +3,7 @@
 
 - 🌱 about **https://bento.me/yakupozbaydar**
 
-- 📫 How to reach me **yakup.ozbaydarft@gmail.com**
+- 📫 How to reach me **yakup@papyonlab.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
