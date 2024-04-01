@@ -2,7 +2,7 @@
 <h3 align="center">react native explorer,ceng student</h3>
 
 - 🌱 about **https://bento.me/yakupozbaydar**
-- - 📫 How to reach me
+-  📫 How to reach me
 **yakup@papyonlab.com**
 
 <p align="left"></p>
