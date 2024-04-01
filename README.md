@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm yakup</h1>
 <h3 align="center">react native explorer,ceng student</h3>
 
-- 🌱 about **https://bento.me/yakupozbaydar** - 📫 How to reach me
+- 🌱 about **https://bento.me/yakupozbaydar**
+- - 📫 How to reach me
 **yakup@papyonlab.com**
 
 <p align="left"></p>
