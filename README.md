@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yakup</h1>
-<h3 align="center">react native explorer,ceng student</h3>
+<h3 align="center">i write code,mainly react native, some rust</h3>
 
 - 🌱 about **https://bento.me/yakupozbaydar**
 -  📫 How to reach me
