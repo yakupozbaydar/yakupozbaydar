@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm yakup</h1>
 
-- 🌱 about **https://bento.me/yakupozbaydar**
 -  📫 How to reach me
 **yakupozbaydardev@gmail.com**
 
